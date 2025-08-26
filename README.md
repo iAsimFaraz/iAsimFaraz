@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Asim
 - 👀 I’m interested in developing large scale applications using JavaScript and Python frameworks.
-- 🌱 I’m currently learning Distribiuted Systems and Software Reliability.
+- 🌱 I’m currently learning Distributed Systems and Software Reliability.
 - 💞️ I’m looking to collaborate on Cutting edge projects and evolving software applications.
 - 📫 How to reach me: iasimfaraz@gmail.com 
 
