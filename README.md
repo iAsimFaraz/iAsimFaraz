@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @iAsimFaraz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Asim
+- 👀 I’m interested in developing large scale applications using JavaScript and Python frameworks.
+- 🌱 I’m currently learning Distribiuted Systems and Software Reliability.
+- 💞️ I’m looking to collaborate on Cutting edge projects and evolving software applications.
+- 📫 How to reach me: iasimfaraz@gmail.com 
 
 <!---
 iAsimFaraz/iAsimFaraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
